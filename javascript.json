@@ -30,7 +30,7 @@
     "type": "MCQ",
     "question": "In the following given syntax of the switch statement, the Expression is compared with the labels using which one of the following operators?\nswitch(expression){\nstatements\n}",
     "options": ["==", "===", "!=", "AND"],
-    "answer": 2,
+    "answer": 1,
     "difficulty": "Easy"
 },
 {
@@ -44,6 +44,6 @@
         "test(pattern)",
         "text==pattern"
     ],
-    "answer": 4,
+    "answer": 3,
     "difficulty": "Easy"
 }]
