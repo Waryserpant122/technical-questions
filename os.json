@@ -1,0 +1,136 @@
+[
+    {
+        "topic": "OS",
+        "subtopic": "Threads",
+        "type": "MCQ",
+        "question": "When does a thread becomes not runnable?",
+        "options": [
+            "Its sleep method is invoked.",
+            "The thread calls the wait method to wait for a specific condition to be satisfied.",
+            "The thread is blocking on I/O. ",
+            "All of the above"
+        ],
+        "answer": 3,
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "OS",
+        "subtopic": "Threads",
+        "type": "MCQ",
+        "question": "In a thread-aware operating system, a process control block (PCB) no longer includes",    
+        "options": [
+            "saved registers",
+            "process owner",
+            "open files",
+            "memory map"
+        ],
+        "answer": 0,
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "OS",
+        "subtopic": "Inter process communication",
+        "type": "MCQ",
+        "question": "Message passing provides a mechanism to allow processes to communicate and to synchronize their actions,",    
+        "options": [
+            "By sharing the same address space",
+            "Without sharing the same address space",
+            "By sharing the same process number and Process Identifier ",
+            "A and C"
+        ],
+        "answer": 1,
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "OS",
+        "subtopic": "Inter process communication",
+        "type": "MCQ",
+        "question": " The link between two processes P and Q to send and receive messages is called:",    
+        "options": [
+            "Communication link",
+            "Message-Passing link",
+            "Synchronization link",
+            "None of the above"  
+        ],
+        "answer": 0,
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "OS",
+        "subtopic": "CPU Scheduling",
+        "type": "MCQ",
+        "question":"Consider a set of n tasks with known runtimes r1, r2, .... rn to be run on a uniprocessor machine. Which of the following processor scheduling algorithms will result in the maximum throughput?",    
+        "options": [
+            "Round - Robin",
+            "Shortest Job First",
+            "Highest Response Ratio Next",
+            "First Come First Served "
+        ],
+        "answer": 0,
+        "difficulty": "Medium"
+    },
+    {   
+        "topic": "OS",
+        "subtopic": "CPU Scheduling",
+        "type": "MCQ",
+        "question":"Consider three CPU-intensive processes, which require 10, 20 and 30 time units and arrive at times 0, 2 and 6, respectively. How many context switches are needed if the operating system implements a shortest remaining time first scheduling algorithm? Do not count the context switches at time zero and at the end.",    
+        "options": [
+            "1","2","3","4"
+        ],
+        "answer": 1,
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "OS",
+        "subtopic": "Memory Management",
+        "type": "MCQ",
+        "question":"Why does the performance of a computer increase if RAM increases?",    
+        "options": [
+            "Virtually memory increases",
+            "Segmentation faults reduce",
+            "Larger RAMs are faster",
+            "Page faults reduce"
+        ],
+        "answer": 3,
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "OS",
+        "subtopic": "Memory Management",
+        "type": "MCQ",
+        "question":" Page fault occurs one in every million tries. Servicing a page fault takes 10 ms while memory access takes 20 ns. What is the effective memory access time?",    
+        "options": [
+            "20 ns","21 ns","30 ns","31 ns"
+        ],
+        "answer": 2,
+        "difficulty": "Medium" 
+    },
+    {
+        "topic": "OS",
+        "subtopic": "File Systems",
+        "type": "MCQ",
+        "question":" __________ is a sequence of bytes organized into blocks that are understandable by the machine.",    
+        "options": [
+           "Object file","Source file","Text file","None of the above"
+        ],
+        "answer": 0,
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "OS",
+        "subtopic": "File Systems",
+        "type": "MCQ",
+        "question":" When will file system fragmentation occur?",    
+        "options": [
+           "unused space or single file are not contiguous",
+           " used space is not contiguous",
+           "unused space is non-contiguous",
+           "multiple files are non-contiguous"
+        ],
+        "answer": 0,
+        "difficulty": "Easy"
+        
+    }
+
+
+]
