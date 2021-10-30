@@ -55,13 +55,41 @@
   },
   {
     "topic": "SQL",
+    "subtopic": "basics",
+    "type": "MCQ",
+    "question": "Which statement is used to delete all rows in a table without having the action logged?",
+    "options": ["Delete", "Remove", "Drop", "Truncate"],
+    "answer": 3, 
+    "difficulty": "Easy"
+  },
+  {
+    "topic": "SQL",
+    "subtopic": "basics",
+    "type": "MCQ",
+    "question": "The SQL statement: \n SELECT ROUND (65.726, -1) FROM DUAL;\n Prints:",
+    "options": ["is illegal", "garbage", "726", "70"],
+    "answer": 3, 
+    "difficulty": "Medium"
+  },
+  {
+    "topic": "SQL",
+    "subtopic": "basics",
+    "type": "MCQ",
+    "question": "Which of the following operator can be used with a multiple-row subquery?",
+    "options": ["=", "Between", "Not in", "<>"],
+    "answer": 2, 
+    "difficulty": "Easy"
+  },
+  {
+    "topic": "SQL",
     "subtopic": "Basics",
     "type": "MCQ",
     "question": "Which operator performs pattern matching",
     "options": ["BETWEEN", "LIKE", "EXISTS", "AS"],
     "answer": 1, 
     "difficulty": "Easy"
-  },{
+  },
+  {
     "topic": "SQL",
     "subtopic": "Basics",
     "type": "MCQ",
@@ -69,7 +97,8 @@
     "options": ["PRIMARY KEY", "ALTERNATE KEY", "FOREIGN KEY", "UNIQUE"],
     "answer": 1, 
     "difficulty": "Easy"
-  },{
+  },
+  {
     "topic": "SQL",
     "subtopic": "Basics",
     "type": "MCQ",

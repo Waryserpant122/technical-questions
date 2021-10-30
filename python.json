@@ -142,5 +142,28 @@
     ],
     "answer": 2,
     "difficulty": "Easy"
+  },
+  {
+    "topic": "Python",
+    "subtopic": "Dictionary",
+    "type": "MCQ",
+    "question": "What is the output of the followuing program?\na = {i: i * i for i in range(6)}\n print (a)",
+    "options": [
+      "Dictionary Comprehension doesn't exist ", "{0: 0, 1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6:36}", "{0: 0, 1: 1, 4: 4, 9: 9, 16: 16, 25: 25}", "{0: 0, 1: 1, 2: 4, 3: 9, 4: 16, 5: 25}"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
+  },
+  {
+    "topic": "Python",
+    "subtopic": "Dictionary",
+    "type": "MCQ",
+    "question": "What is the output of the followuing program?\nD = dict()\nfor x in enumerate(range(2)):\nD[x[0]] = x[1] \nD[x[1]+7] = x[0] \nprint(D) ",
+    "options": [
+      "{0: 1, 7: 0, 1: 1, 8: 0}", "{1: 1, 7: 2, 0: 1, 8: 1}", "{0: 0, 7: 0, 1: 1, 8: 1}", "KeyError"
+    ],
+    "answer": 2,
+    "difficulty": "Easy"
+
   }
 ]
