@@ -80,6 +80,7 @@
     "answer": 2, 
     "difficulty": "Easy"
   },
+  {
     "topic": "SQL",
     "subtopic": "Basics",
     "type": "MCQ",
