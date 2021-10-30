@@ -24,4 +24,26 @@
     "options": ["12345" , "true" , "{'a':12345,'b':true}" ,"Error"],
     "answer": 1,
     "difficulty": "Easy"
+},{
+    "topic": "JavaScript",
+    "subtopic": "Switch case",
+    "type": "MCQ",
+    "question": "In the following given syntax of the switch statement, the Expression is compared with the labels using which one of the following operators?\nswitch(expression){\nstatements\n}",
+    "options": ["==", "===", "!=", "AND"],
+    "answer": 1,
+    "difficulty": "Easy"
+},
+{
+    "topic": "JavaScript",
+    "subtopic": "Regex validation",
+    "type": "MCQ",
+    "question": "Consider the following snippet of JavaScript code\nvar text ='SampleText';\nvar pattern =^a;//Some regex \nWhich one of the following statement is most suitable to check if the pattern matches with the string 'text'",
+    "options": [
+        "test(text)",
+        "equals(pattern)",
+        "test(pattern)",
+        "text==pattern"
+    ],
+    "answer": 3,
+    "difficulty": "Easy"
 }]
