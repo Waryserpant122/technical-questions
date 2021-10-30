@@ -52,5 +52,30 @@
     "options": ["Natural join", "Equi join", "Outer join", "Cartesian join"],
     "answer": 1, 
     "difficulty": "Easy"
+  },
+  {
+    "topic": "SQL",
+    "subtopic": "Basics",
+    "type": "MCQ",
+    "question": "Which operator performs pattern matching",
+    "options": ["BETWEEN", "LIKE", "EXISTS", "AS"],
+    "answer": 1, 
+    "difficulty": "Easy"
+  },{
+    "topic": "SQL",
+    "subtopic": "Basics",
+    "type": "MCQ",
+    "question": "Which among the following is not type of SQL constraint",
+    "options": ["PRIMARY KEY", "ALTERNATE KEY", "FOREIGN KEY", "UNIQUE"],
+    "answer": 1, 
+    "difficulty": "Easy"
+  },{
+    "topic": "SQL",
+    "subtopic": "Basics",
+    "type": "MCQ",
+    "question": "What do we call the virtual table constructed from other tables in sql",
+    "options": ["View", "Relation", "Procedure", "Table"],
+    "answer": 0, 
+    "difficulty": "Easy"
   }
 ]
