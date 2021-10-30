@@ -1,0 +1,67 @@
+[
+	{
+		"topic": "System design",
+		"subtopic": "Distributed systems",
+		"type": "MCQ",
+		"question": "Resources and clients transparency that allows movement within a system is called",
+		"options": [
+			"Mobility transparency",
+			"Replication transparency",
+			"Performance transparency",
+			"concurrency transparency"
+		],
+		"answer": 0,
+		"difficulty": "Easy"
+	},
+	{
+		"topic": "System design",
+		"subtopic": "Distributed systems",
+		"type": "MCQ",
+		"question": "The capability of a system to adapt the increased service load is called",
+		"options": ["scalability", "tolerance", "capacity", "None of the above"],
+		"answer": 0,
+		"difficulty": "Easy"
+	},
+	{
+		"topic": "System design",
+		"subtopic": "Network",
+		"type": "MCQ",
+		"question": "Network operating system runs on",
+		"options": [
+			"every system on network",
+			"server",
+			"both a and b",
+			"None of the above"
+		],
+		"answer": 1,
+		"difficulty": "Easy"
+	},
+	{
+		"topic": "System design",
+		"subtopic": "Distributed systems",
+		"type": "MCQ",
+		"question": "What are design issues in distributed system structure?",
+		"options": [
+			"scalability",
+			"fault-tolerance",
+			"flexibility",
+			"All of the above"
+		],
+		"answer": 3,
+		"difficulty": "Easy"
+	},
+	{
+		"topic": "System design",
+		"subtopic": "Load balancer",
+		"type": "MCQ",
+		"question": "Elastic load balancing offers",
+		"options": [
+			"ability to load balance across server clusters",
+			"ability to load balance on-premises resources",
+			"both a and b",
+			"None of the above"
+		],
+		"answer": 2,
+		"difficulty": "Easy"
+	}
+]
