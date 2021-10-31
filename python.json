@@ -165,5 +165,27 @@
     "answer": 2,
     "difficulty": "Easy"
 
+  },  
+  {
+    "topic": "Python",
+    "subtopic": "Scope",
+    "type": "MCQ",
+    "question": "Predict the output:\n\nx = 34\ndef scope_test(x):\n\tprint('x == ', x)\n\tx = 2\n\tprint('X is changed to == ', x)\nscope_test(x)\nprint('x is at outer scope ', x)",
+    "options": [
+      "x == 34\nX is changed to == 34\nx is at outer scope 34", "x == 34\nX is changed to == 34\nx is at outer scope 2", "x == 2\nX is changed to == 2\nx is at outer scope 34", "x == 34\nX is changed to == 2\nx is at outer scope 34"
+    ],
+    "answer": 3,
+    "difficulty": "Medium"
+  },
+  {
+    "topic": "Python",
+    "subtopic": "Functions",
+    "type": "MCQ",
+    "question": "What is the output of the following code?\n\ndef printme(msg, count=1):\n\tprint(msg * count)\n\nprintme('Welcome')\nprintme('Pythoneasy', 2)",
+    "options": [
+      "Welcome\nPythoneasy", "Welcome\nPythoneasyPythoneasy", "WelcomeWelcome\nPythoneasyPythoneasy", "None"
+    ],
+    "answer": 1,
+    "difficulty": "Easy"
   }
 ]
