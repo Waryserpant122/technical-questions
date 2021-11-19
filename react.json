@@ -49,5 +49,23 @@
         "options": ["3000", "3333", "6020", "8080"],
         "answer": 3, 
         "difficulty": "Easy"
+    },
+    {
+        "topic": "React",
+        "subtopic": "Lifecycle Methods",
+        "type": "MCQ",
+        "question": "Which lifecycle method was deprecated in v16.3.0 and removed from v17.0 onwards in Reactjs",
+        "options": ["componentWillMount()", "shouldComponentUpdate()", "componentDidUpdate()", "componentDidMount()"],
+        "answer": 0, 
+        "difficulty": "Easy"
+    },
+    {
+        "topic": "React",
+        "subtopic": "Components",
+        "type": "MCQ",
+        "question": "What is the difference in performance between a stateful Class based component and a stateful Functional Component(using useState() hook)",
+        "options": ["Class based components perform better", "Functional components perform better", "Both show similar performance", "What are Class based Components?"],
+        "answer": 2, 
+        "difficulty": "Easy"
     }
 ]

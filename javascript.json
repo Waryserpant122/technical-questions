@@ -46,4 +46,20 @@
     ],
     "answer": 3,
     "difficulty": "Easy"
+},{
+    "topic": "JavaScript",
+    "subtopic": "Strings",
+    "type": "MCQ",
+    "question": "Given Code\ns=('b' + 'a' + + 'a' + 'a').toLowerCase();\nWhat is the value of s",
+    "options": ["baaa","b","Error","banana"],
+    "answer": 3,
+    "difficulty": "Medium"
+},{
+    "topic": "JavaScript",
+    "subtopic": "Strings",
+    "type": "MCQ",
+    "question": "Given Code\ns=-'34'+10;\nWhat is the value of s",
+    "options": ["-3410","3410",-24,44],
+    "answer": 2,
+    "difficulty": "Medium"
 }]

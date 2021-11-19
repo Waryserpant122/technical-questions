@@ -166,5 +166,14 @@
     "options": ["0", "1", "2", "None of these"],
     "answer": 0,
     "difficulty": "Easy"
+  },
+  {
+    "topic": "C-Plus-Plus",
+    "subtopic": "Functions",
+    "type": "MCQ",
+    "question": "Inline functions are useful when",
+    "options": ["Function is large with many nested loops", "Function is large with many nested loops", "Function is small and we want to avoid function call overhead", "None of these"],
+    "answer": 2,
+    "difficulty": "Easy"
   }
 ]
